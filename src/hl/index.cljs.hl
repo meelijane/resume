@@ -1,0 +1,4 @@
+(page "index.html"
+  (:require [page.dom]))
+
+(page.dom/page)
